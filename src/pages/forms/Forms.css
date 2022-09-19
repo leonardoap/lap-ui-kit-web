@@ -1,0 +1,32 @@
+input[type="text"],
+select,
+textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1.5px solid #ccc;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type="submit"] {
+  background-color: #04aa6d;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  background-color: #f2f2f2;
+}
+
+fieldset {
+  padding: 0px;
+}
